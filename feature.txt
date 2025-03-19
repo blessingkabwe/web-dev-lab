@@ -1,0 +1,4 @@
+I have learnt that Git keeps a record of all changes made to the code, allowing developers to revert to previous versions if needed.
+it also allows developers to create separate branches for new features or bug fixes and then merge them int the main codebase  
+Git iis als used to create a repository and also to commit changes
+allows multiple developers to work on the same code base simultaneosly
